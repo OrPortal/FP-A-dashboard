@@ -1,22 +1,29 @@
 # FP-A-dashboard
-MIT License
+## Finance Report Dashboard
 
-Copyright (c) 2024 Or Portal
+Hello Everyone,
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+I made this Finance Dashboard in Power BI with the Finance Excel Workbook provided by Microsoft on their Website.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+## Problem Statement
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+- The goal of this Power BI Dashboard Project is to analyze the financial performance of a company using the provided Microsoft Sample Data.
+
+- To create a visually appealing dashboard that provides an overview of the company's financial metrics enabling stakeholders to make informed business decisions.
+
+## Sections in the Report
+
+**Report has Multiple Section's from where you can manage the Data, Like :**
+
+- Report Data can be sliced by Segments, Country and Year to show Particular Data.
+
+- It has cards showing Total Units Sold, Total Gross Sale and Total Profit.
+
+- It has a Clustered Bar Chart with Year on X-Axis and Profit on Y-Axis showing Profit Quarterly.
+
+- And Lastly, It has a Area Chart showing Months on X-Axis and Profit on Y-Axis showing profit Monthly.
+
+- I have also included a Reset Button at the Top to clear all Slicer's.
+
+- To use it hold CTRL and then click it to reset the Slicer's.
+
